@@ -1,1 +1,1 @@
-# Exoplanet-search
+# Exoplanet searching tool
