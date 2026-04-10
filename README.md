@@ -13,7 +13,7 @@ A Python tool that queries the NASA Exoplanet Archive for observable transiting 
 
 | Parameter | Value | Reason |
 |---|---|---|
-| Declination | -40° to +60° | Visible from both Bolivia and Europe |
+| Declination | -40° to +60° | Visible from both Hemispheres|
 | Orbital period | 1–5 days | Hot Jupiter range, frequent transits |
 | Transit depth | >0.5% | Detectable with 6-inch aperture |
 | Stellar V magnitude | 8–11 | Bright enough without saturating sensor |
